@@ -1,0 +1,19 @@
+﻿id;link;alias;hashed_password;created_date;user_id
+1;https://example1.com;example1;NULL;13.12.2024 12:35;1
+2;https://example2.com;example2;NULL;13.12.2024 12:35;1
+3;https://example3.com;example3;NULL;13.12.2024 12:35;1
+4;https://example4.com;example4;NULL;13.12.2024 12:35;2
+5;https://example5.com;example5;NULL;13.12.2024 12:35;2
+6;https://example6.com;example6;NULL;13.12.2024 12:35;3
+7;https://example7.com;example7;NULL;13.12.2024 12:35;3
+8;https://example8.com;example8;NULL;13.12.2024 12:35;3
+9;https://example9.com;example9;NULL;13.12.2024 12:35;4
+10;https://example10.com;example10;NULL;13.12.2024 12:35;5
+11;https://example11.com;example11;NULL;13.12.2024 12:35;6
+12;https://example12.com;example12;NULL;13.12.2024 12:35;7
+13;https://example13.com;example13;NULL;13.12.2024 12:35;8
+14;https://example14.com;example14;NULL;13.12.2024 12:35;8
+17;https://example17.com;example17;NULL;13.12.2024 12:35;11
+18;https://example18.com;example18;NULL;13.12.2024 12:35;12
+19;https://example19.com;example19;NULL;13.12.2024 12:35;13
+20;https://example20.com;example20;NULL;13.12.2024 12:35;14
